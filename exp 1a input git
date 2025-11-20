@@ -1,0 +1,17 @@
+/* name: parth pravin bambade
+age: 18
+class:civil
+division: b
+uin:251C038*/
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("NAME: parth pravin bambade\n");
+    printf(" AGE = 18\n");
+    printf(" CLASS: civil\n");
+    printf(" DIVISION; B\n");
+    printf(" UIN:251C038\n ");
+    return 0;
+}
